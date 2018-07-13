@@ -1,9 +1,9 @@
 export default function() {
     return [
-        { title: 'Javascript: The Good Parts' },
-        { title: 'Harry Potter' },
-        { title: 'Winnie The Pooh' },
-        { title: 'Mickey Mouse' }
+        { title: 'Javascript: The Good Parts', pages: 101 },
+        { title: 'Harry Potter', pages: 989 },
+        { title: 'Winnie The Pooh', pages: 300 },
+        { title: 'Mickey Mouse', pages: 78 }
     ]
 }
 

@@ -28,7 +28,7 @@ class Booklist extends Component {
 }
 
 //to take application state as an argument
-function mapStateToProps(state){
+function mapStateToProps(state) {
     //whatever is returned will show up as props inside of Booklist
     //every time state container changes, it will rerender with a new list of books
     return {
